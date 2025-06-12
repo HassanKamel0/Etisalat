@@ -1,7 +1,7 @@
 [
   {
     "name": "Etisalat-app",
-    "appId": "cb1bc65d-48c6-424f-8d55-d73d7c0a9657",
+    "appId": "dc65f24b-d25a-404d-894b-331bfec140ab",
     "callbackUrl": "",
     "status": "approved",
     "attributes": [
@@ -12,8 +12,8 @@
     ],
     "credentials": [
       {
-        "consumerKey": "xwQnG5OpUG3SiomMGt0kQw1hhXdjlbvu",
-        "consumerSecret": "oodoosEuXdom5IGA",
+        "consumerKey": "FFLg3mqEpa15itvpUOAEHScW6K2eM36o",
+        "consumerSecret": "H2G5fri0RngL6ee2",
         "apiProducts": [
           {
             "apiproduct": "EtisalatProduct",
@@ -23,7 +23,7 @@
         "status": "approved",
         "attributes": [],
         "scopes": [],
-        "issuedAt": 1749705273531,
+        "issuedAt": 1749710733067,
         "expiresAt": -1
       }
     ],

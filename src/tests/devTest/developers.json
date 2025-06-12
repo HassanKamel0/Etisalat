@@ -10,17 +10,5 @@
     "userName": "Hassan Kamel",
     "firstName": "Hassan",
     "lastName": "Kamel"
-  },
-  {
-    "attributes": [
-      {
-        "name": "sample_attribute_0",
-        "value": "sample_attribute_value_0"
-      }
-    ],
-    "email": "Mesho@gmail.com",
-    "userName": "Mesho",
-    "firstName": "Mesho",
-    "lastName": "Hanna"
   }
 ]

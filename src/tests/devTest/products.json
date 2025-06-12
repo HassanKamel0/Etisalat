@@ -19,7 +19,7 @@
     "name": "EtisalatProduct",
     "displayName": "EtisalatProduct",
     "proxies": [
-      "AK-authentication-proxy"
+      "hello-world"
     ]
   }
 ]

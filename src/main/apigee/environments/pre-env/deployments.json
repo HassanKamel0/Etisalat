@@ -1,7 +1,7 @@
 {
   "proxies": [
     {
-      "name": "REVERSE-proxy"
+      "name": "hello-world"
     }
   ],
   "sharedflows": []
