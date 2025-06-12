@@ -1,0 +1,15 @@
+<ProxyEndpoint name="users">
+  <PreFlow name="PreFlow">
+    <Request>
+      <Step>
+        <Name>verify-api-key</Name>
+      </Step>
+    </Request>
+  </PreFlow>
+  <HTTPProxyConnection>
+    <BasePath>/etisalat</BasePath>
+  </HTTPProxyConnection>
+  <RouteRule name="users-route">
+    <TargetEndpoint>get-users</TargetEndpoint>
+  </RouteRule>
+</ProxyEndpoint>

@@ -1,0 +1,5 @@
+<TargetEndpoint name="get-users">
+  <HTTPTargetConnection>
+    <URL>https://jsonplaceholder.typicode.com/users</URL>
+  </HTTPTargetConnection>
+</TargetEndpoint>

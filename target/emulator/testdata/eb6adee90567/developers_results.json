@@ -1,0 +1,32 @@
+[
+  {
+    "developerId": "4cb9c1f2-11c6-45b8-9dab-de66323dc0ae",
+    "userName": "Hassan Kamel",
+    "firstName": "Hassan",
+    "lastName": "Kamel",
+    "email": "hassan@gmail.com",
+    "status": "active",
+    "attributes": [
+      {
+        "name": "sample_attribute_0",
+        "value": "sample_attribute_value_0"
+      }
+    ],
+    "apps": []
+  },
+  {
+    "developerId": "977f947f-7b75-43df-a6fa-48f566b4f0d0",
+    "userName": "Mesho",
+    "firstName": "Mesho",
+    "lastName": "Hanna",
+    "email": "Mesho@gmail.com",
+    "status": "active",
+    "attributes": [
+      {
+        "name": "sample_attribute_0",
+        "value": "sample_attribute_value_0"
+      }
+    ],
+    "apps": []
+  }
+]
